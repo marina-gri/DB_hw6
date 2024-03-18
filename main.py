@@ -49,5 +49,5 @@ session.close()
 
 
 if __name__ == "__main__":
-    name = input(f"Введите имя или id автора: ")
+    name = input(f"Введите имя или id издателя: ")
     find_purchases(name)
